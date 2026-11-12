@@ -1,1 +1,3 @@
-# tablo-test-uygulamas-
+# Tablo Test Uygulaması
+
+- Basit bir örnek amaçlı tablo uygulaması
